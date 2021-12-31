@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# Cryptocurrency Tracking Tool with React JS, Material UI and Chart JS + Google Authentication and Firestore Database with CRUD Operations
 
 ## Demo
 
