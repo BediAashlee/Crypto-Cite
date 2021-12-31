@@ -2,7 +2,7 @@
 
 ## Demo
 
-#### Here is a working live demo : https://crypto-cite.netlify.app/
+#### Here is a working live demo : [CryptoCite](https://crypto-cite.netlify.app/)
 
 ## Built with
 
